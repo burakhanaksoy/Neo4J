@@ -1,0 +1,42 @@
+{
+    "name":"projectB",
+    "location":"Turkey",
+    "employee":[
+        {
+            "name":"Burak",
+            "age":25,
+            "project":{
+                "name":"projectB",
+                "location":"Turkey"
+                }
+        },
+        {
+            "name":"Mehmet",
+            "age":35,
+            "project":{
+                "name":"projectB",
+                "location":"Turkey"
+                }
+        }
+    ]
+}
+
+{
+    "name":"lineA",
+    "projectSet":[
+        {
+    "name":"projectB",
+    "location":"Turkey",
+    "employee":[
+        {
+            "name":"Burak",
+            "age":25
+        },
+        {
+            "name":"Mehmet",
+            "age":35
+        }
+    ]
+}
+    ]
+}
